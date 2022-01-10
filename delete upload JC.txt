@@ -1,0 +1,1 @@
+DELETE FROM gl_journal WHERE gl_type='JC' AND gl_created='2020-01-06'

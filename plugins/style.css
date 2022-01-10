@@ -1,0 +1,36 @@
+a{
+	color: blue;
+	text-decoration: none;
+}
+.container{
+	height: 100%; 
+	position: relative;
+}
+#wrapper{
+	height:100%;
+}
+#fm{
+	margin:0;
+	padding:10px 30px;
+}
+.ftitle{
+	font-size:14px;
+	font-weight:bold;
+	padding:5px 0;
+	margin-bottom:10px;
+	border-bottom:1px solid #ccc;
+}
+.fitem{
+	margin-bottom:5px;
+}
+.fitem label{
+	display:inline-block;
+	width:110px;
+}
+.fitem input{
+	width:160px;
+}
+.north{
+	height:20px;
+	text-align:right;
+}

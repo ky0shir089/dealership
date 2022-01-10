@@ -1,0 +1,39 @@
+--------------------------------------------------------------------------------
+			TAGIHAN PELUNASAN UNIT
+--------------------------------------------------------------------------------
+
+Tanggal		: 2018-08-29
+
+No		: 202211808SPUK00022
+
+Kepada Yth	: EDI ASMORO
+
+DESKRIPSI
+--------------------------------------------------------------------------------
+Pembayaran atas unit kendaraan sepeda motor bekas yang telah disepakati.
+
+NO	NO POLISI	NO MESIN	TIPE		TAHUN	AMOUNT
+
+1   	B4446FOD	JFZ2E1282019	BEAT STREET C	2018	Rp 12.100.000
+2   	B4126KGK	JM21E1583726	ALL N BEAT CB	2017	Rp 11.100.000
+3   	B4276FMK	JM21E1670050	ALL N BEAT CB	2017	Rp 11.100.000
+4   	B4914FML	JM11E1380071	ALLN BEAT CBS	2017	Rp 11.950.000
+5   	B4459FNW	JM11E1621132	BEAT SP CBS I	2018	Rp 12.100.000
+6   	B4985KID	JFZ1E2417978	BEAT SPORTY C	2018	Rp 11.100.000
+TOTAL							        Rp 69.450.000
+
+--------------------------------------------------------------------------------
+TERBILANG:  Enam Puluh Sembilan Juta Empat Ratus Lima Puluh  Ribu 
+--------------------------------------------------------------------------------
+
+CARA PEMBAYARAN: BANK _____ dengan Rekening No. _______________ atas nama _______________.
+--------------------------------------------------------------------------------
+
+Mohon setelah ditransfer bukti pembayaran dapat dikirimkan kepada kami agar dapat segera kami proses untuk di verifikasi.
+
+Demikian yang kami sampaikan, atas perhatian dan kerjasamanya kami ucapkan terima kasih.
+
+Hormat kami,
+PT. Bersama Makmur Raharja
+
+(                        )

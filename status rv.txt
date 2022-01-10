@@ -1,0 +1,1 @@
+UPDATE fin_trn_rv SET rv_status='C' WHERE rv_amount=0

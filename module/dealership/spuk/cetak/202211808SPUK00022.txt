@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+			TAGIHAN PELUNASAN UNIT
+--------------------------------------------------------------------------------
+
+Tanggal		: 2018-08-29
+
+No			: 202211808SPUK00022
+
+Kepada Yth	: EDI ASMORO
+
+Deskripsi
+--------------------------------------------------------------------------------
+Sesuai konfirmasi pelunasan ke Cabang FIF PARENTING BEKASI maka dengan ini kami beritahukan bahwa pada tanggal 2018-08-29 kami telah melakukan pelunasan ke rekening MANDIRI 1200000056007 an PT FIF sejumlah Rp.0 dengan rincian sebagai berikut:
+
+No  No. Mesin	No. Distribusi		Nama Konsumen		HBM
+
+1   JFZ2E1282019	1150018SO00000453	EDI ASMORO	Rp.12.100.000
+2   JM21E1583726	1150018SO00000427	EDI ASMORO	Rp.11.100.000
+3   JM21E1670050	1150018SO00000453	EDI ASMORO	Rp.11.100.000
+4   JM11E1380071	1150018SO00000454	EDI ASMORO	Rp.11.950.000
+5   JM11E1621132	1150018SO00000454	EDI ASMORO	Rp.12.100.000
+6   JFZ1E2417978	1150018SO00000454	EDI ASMORO	Rp.11.100.000
+TOTAL							        Rp.69.450.000
+
+Demikian konfirmasi pelunasan ke Cabang PARENTING BEKASI atas unit yang telah dilunasi, dan mohon ditindak lanjuti proses penagihannya. Atas kerjasamanya kami ucapkan terima kasih.
+
+Hormat kami,
+BMR
